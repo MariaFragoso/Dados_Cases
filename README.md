@@ -10,7 +10,7 @@
 
 # Melhorias Propostas com Indicadores de Satisfação
 
-1. Integração de Sistemas de comunicação e CRM (Customer Relationship Management) para oferecer um serviço personlizado e aprimorar as conexões entre entre clientes e empresas.
+1. Integração de Sistemas de comunicação e CRM (Customer Relationship Management) para oferecer um serviço personalizado e aprimorar as conexões entre entre clientes e empresas.
 
 2. Integração de chatbots para ajudar a automatizar o processo de atendimento e as solicitações dos clientes, uso da Inteligência Artificial, analytics e dados para agir com base em informações coletadas e melhorar a experiência dos clientes. Informações coletadas geram dados e material necessário para monitorar e medir as atividades.
 

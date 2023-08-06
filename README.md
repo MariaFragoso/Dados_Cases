@@ -29,7 +29,7 @@
 
 # Projeto Case 5
 
-# Consulta SQL de usuários cadastrados nos ultimos 30 dias
+# Consulta SQL de usuários cadastrados nos últimos 30 dias
 
 SELECT User * FROM "users_e-mails"
 

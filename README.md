@@ -8,7 +8,7 @@
 4. Tempo de Resposta Inicial
 5. FCR (Fist call resolution)
 
-# Melhorias propostas com Indicadores de Satisfação
+# Melhorias Propostas com Indicadores de Satisfação
 
 1. Integração de Sistemas de comunicação e CRM (Customer Relationship Management) para oferecer um serviço personlizado e aprimorar as conexões entre entre clientes e empresas.
 

@@ -23,7 +23,7 @@
 
 - Criar Usuários Individuais
 - Requerer senhas fortes
-- Usar multiplos respostas de autenticação
+- Usar multiplas respostas de autenticação
 - Revisar regularmente os usuários criados
 - Investir em ferramentas de gestão de acessos
 

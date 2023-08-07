@@ -22,8 +22,8 @@
 # Práticas Inovadoras para Gerenciamento de Acessos
 
 - Criar Usuários Individuais
-- Requerer senhas fortas
-- Usar multiplos fatos de autenticação
+- Requerer senhas fortes
+- Usar multiplos respostas de autenticação
 - Revisar regularmente os usuários criados
 - Investir em ferramentas de gestão de acessos
 

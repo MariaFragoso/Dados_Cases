@@ -32,6 +32,8 @@
 # Consulta SQL de usuários cadastrados nos últimos 30 dias
 
 SELECT User * FROM "users_e-mails"
+-- o comando select contém o nome do campo que será retornado, o (*) é usado quando desejamos trazer todos os campos
 
 WHERE data BETWEEN NOW ()-INTERVAL 30 DAY AND NOW()
+-- O comando WHERE serve para filtrar registros que serão retornados 
 
